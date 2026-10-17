@@ -1,0 +1,4 @@
+Model,Test accuracy,Precision (macro),Recall (macro),F1 (macro),Train time (s)
+HOG + SVM,0.4784,0.5379,0.424,0.4453,150.7
+HOG + KNN,0.4606,0.4449,0.4216,0.422,0.0
+HOG + Random Forest,0.4508,0.5603,0.3867,0.4104,277.9

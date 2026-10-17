@@ -1,0 +1,12 @@
+numpy
+opencv-python-headless<5
+scikit-learn
+scikit-image
+matplotlib
+pandas
+tqdm
+kagglehub
+tensorflow
+gradio
+deepface
+tf-keras
